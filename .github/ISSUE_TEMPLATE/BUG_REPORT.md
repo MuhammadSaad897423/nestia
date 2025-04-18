@@ -21,7 +21,7 @@ Write a short summary of the bug in here.
   - **Actual behavior**: 
 
 Write detailed description in here.
-
+`npm install --save-dev nestia@next--updated`
 
 
 ### Code occuring the bug
